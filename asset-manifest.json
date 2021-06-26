@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Malicious_checker/static/css/main.106b0e70.chunk.css",
+    "main.js": "/Malicious_checker/static/js/main.52dbc29c.chunk.js",
+    "main.js.map": "/Malicious_checker/static/js/main.52dbc29c.chunk.js.map",
+    "runtime-main.js": "/Malicious_checker/static/js/runtime-main.746d2aef.js",
+    "runtime-main.js.map": "/Malicious_checker/static/js/runtime-main.746d2aef.js.map",
+    "static/js/2.17a217b2.chunk.js": "/Malicious_checker/static/js/2.17a217b2.chunk.js",
+    "static/js/2.17a217b2.chunk.js.map": "/Malicious_checker/static/js/2.17a217b2.chunk.js.map",
+    "static/js/3.e53c5d42.chunk.js": "/Malicious_checker/static/js/3.e53c5d42.chunk.js",
+    "static/js/3.e53c5d42.chunk.js.map": "/Malicious_checker/static/js/3.e53c5d42.chunk.js.map",
+    "index.html": "/Malicious_checker/index.html",
+    "static/css/main.106b0e70.chunk.css.map": "/Malicious_checker/static/css/main.106b0e70.chunk.css.map",
+    "static/js/2.17a217b2.chunk.js.LICENSE.txt": "/Malicious_checker/static/js/2.17a217b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.746d2aef.js",
+    "static/js/2.17a217b2.chunk.js",
+    "static/css/main.106b0e70.chunk.css",
+    "static/js/main.52dbc29c.chunk.js"
+  ]
+}
